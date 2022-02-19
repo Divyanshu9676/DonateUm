@@ -1,11 +1,12 @@
-# hack
-
-A move towards hunger eradication.
+# DonateUm
+A move towards  hunger eradication
+A move towards hunger eradication
 
 ## Getting Started
+We aim to eradicate the hunger using our understanding of technology.
 
-This project is a starting point for a Flutter application.
-
+These days many corporates and other companies face issues to complete their corporate social resposibility (CSR).
+To solve this problem, we introduce our App with all certified NGOs working sincerely locally in their respective areas.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
