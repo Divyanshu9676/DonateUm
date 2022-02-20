@@ -1,5 +1,5 @@
 
-# DonateUm
+# Donateum
 
 A mobile Application to solve problems of both companies and NGOs.
 
