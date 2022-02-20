@@ -1,17 +1,23 @@
+
 # DonateUm
-A move towards  hunger eradication
-A move towards hunger eradication
 
-## Getting Started
-We aim to eradicate the hunger using our understanding of technology.
+A mobile Application to solve problems of both companies and NGOs.
 
-These days many corporates and other companies face issues to complete their corporate social resposibility (CSR).
-To solve this problem, we introduce our App with all certified NGOs working sincerely locally in their respective areas.
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## About
+
+Despite phenomenal industrial and economic growth and while India produces sufficient food to feed its population, it is unable to provide access to food to a large number of people.
+
+Corporate Social Responsibility is a management concept whereby  companies integrate social and environmental concerns in their business  operations and interactions with their stakeholders.
+
+Our Application 'DonateUm' makes an effort towards helping companies interested in CSR or Charity by providing an easy to use platform to donate to NGOs.
+
+## Built With
+
+* Flutter
+* Firebase
+* Google Maps API
+* Here API
+* Google Geolocation API
