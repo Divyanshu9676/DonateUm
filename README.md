@@ -48,6 +48,6 @@ https://user-images.githubusercontent.com/66022524/154846270-dd720a08-c5ba-4026-
 ## Team Memberes 
 
 * <a href = "https://github.com/Divyanshu9676">Divyanshu Singh</a> 
-* <a href = "https://github.com/Harshal80302">Harshal Sharma</a> 
+* <a href = "https://github.com/Harshal80503">Harshal Sharma</a> 
 * <a href = "https://github.com/Mahip777">Mahip Khandelwal</a> 
 * <a href = "https://github.com/dunking3022">Geetansh Saini</a> 
