@@ -24,44 +24,26 @@ Our Application 'Donateum' makes an effort towards helping companies interested 
 ## Screenshots
 
 
+| <img src="https://i.imgur.com/48Y1RoF.png" width="299" height="648" align = "center"> | <img src="https://i.imgur.com/ATU0CHe.png" width="299" height="648"> | <img src="https://i.imgur.com/JMDAkXZ.png" width="299" height="648"> | 
+|:--: |:--:| :--:| 
+| *Homepage* | *Sign Up* |*Location* |
 
-| ![Homepage](https://i.imgur.com/48Y1RoF.png) | 
-|:--:| 
-| *Homepage* |
-
-| ![SignUp](https://i.imgur.com/ATU0CHe.png) | 
-|:--:| 
-| *Sign Up* |
-
-
-<img src="https://i.imgur.com/JMDAkXZ.png" width="299" height="648">
-|:--:| 
-| *Location* |
+| <img src="https://i.imgur.com/wUQNmg3.png" width="299" height="648"> | <img src="https://i.imgur.com/CzLmklB.png" width="299" height="648"> | <img src="https://i.imgur.com/gBza4cB.png" width="299" height="648"> | 
+|:--:| :--:| :--:| 
+| *Donate To* |*About NGOs* |*Categories* |
 
 
-| ![DonateTo](https://i.imgur.com/wUQNmg3.png) | 
-|:--:| 
-| *Donate To* |
+| <img src="https://i.imgur.com/aJZn60D.png" width="299" height="648"> | <img src="https://i.imgur.com/LXZiF09.png" width="299" height="648"> | 
+|:--:|:--:|  
+| *Payment* |*Payment Information* |
 
+## Demo
 
-| ![AboutNGOs](https://i.imgur.com/CzLmklB.png) | 
-|:--:| 
-| *About NGOs* |
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/679691529)
 
+## Team Memberes 
 
-| ![Categories](https://i.imgur.com/gBza4cB.png) | 
-|:--:| 
-| *Categories* |
-
-| ![Payment](https://i.imgur.com/aJZn60D.png) | 
-|:--:| 
-| *Payment* |
-
-| ![Pay](https://i.imgur.com/LXZiF09.png) | 
-|:--:| 
-| *Payment Information* |
-
-
-
-
-
+* <a href = "https://github.com/Divyanshu9676">Divyanshu Singh</a> 
+* <a href = "https://github.com/Harshal80302">Harshal Sharma</a> 
+* <a href = "https://github.com/Mahip777">Mahip Khandelwal</a> 
+* <a href = "https://github.com/dunking3022">Geetansh Saini</a> 
