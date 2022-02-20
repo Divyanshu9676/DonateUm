@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/66022524/154846270-dd720a08-c5ba-4026-
 <a href = "https://vimeo.com/679691529">*Click here to watch on Vimeo*</a>
 
 
-## Team Memberes 
+## Team Members 
 
 * <a href = "https://github.com/Divyanshu9676">Divyanshu Singh</a> 
 * <a href = "https://github.com/Harshal80503">Harshal Sharma</a> 
