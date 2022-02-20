@@ -34,7 +34,7 @@ Our Application 'Donateum' makes an effort towards helping companies interested 
 | *Sign Up* |
 
 
-| ![Location](https://i.imgur.com/JMDAkXZ.png) | 
+<img src="https://user-images.githubusercontent.com/66022524/154844547-3efb1987-a8b4-460e-9910-501a33080448.png" width="100" height="100">
 |:--:| 
 | *Location* |
 
