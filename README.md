@@ -34,7 +34,7 @@ Our Application 'Donateum' makes an effort towards helping companies interested 
 | *Sign Up* |
 
 
-<img src="https://i.imgur.com/JMDAkXZ.png" width="100" height="100">
+<img src="https://i.imgur.com/JMDAkXZ.png" width="299" height="648">
 |:--:| 
 | *Location* |
 
