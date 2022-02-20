@@ -21,6 +21,7 @@ Our Application 'Donateum' makes an effort towards helping companies interested 
 * Google Maps API
 * Here API
 * Google Geolocation API
+* RazorPay API
 ## Screenshots
 
 
