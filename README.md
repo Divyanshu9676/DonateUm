@@ -39,7 +39,11 @@ Our Application 'Donateum' makes an effort towards helping companies interested 
 
 ## Demo
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/679691529)
+https://user-images.githubusercontent.com/66022524/154846270-dd720a08-c5ba-4026-a53c-2225503fc3db.mp4
+
+
+<a href = "https://vimeo.com/679691529">*Click here to watch on Vimeo*</a>
+
 
 ## Team Memberes 
 
